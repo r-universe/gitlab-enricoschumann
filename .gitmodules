@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PMwR"]
+	path = PMwR
+	url = https://gitlab.com/enricoschumann/pmwr
+	shallow = true
+	registered = true
